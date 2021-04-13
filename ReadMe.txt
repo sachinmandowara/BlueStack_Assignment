@@ -1,5 +1,5 @@
 To run the application just run test.py
-Go to your console and enter command :
+Open the directory in your cmd and enter command :
 python test.py
 
 Follow along with the application, enter input parameters as asked by the app.
